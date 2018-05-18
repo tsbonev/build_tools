@@ -1,4 +1,4 @@
-package com.tsb;
+package com.clouway.crm.learning;
 
 public class Main {
 
